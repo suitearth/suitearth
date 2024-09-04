@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birth Preferences for Aly Grace Buren</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #004d99;
+        }
+        h2 {
+            border-bottom: 2px solid #004d99;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .note {
+            font-style: italic;
+            color: #666;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #004d99;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Birth Preferences for Aly Grace Buren</h1>
+        <p><span class="highlight">Estimated Due Date:</span> 9/20</p>
+        <p><span class="highlight">Hospital:</span> Davao Doctor's Hospital</p>
+        <p><span class="highlight">Primary Care Provider:</span> Dr. Regina Escovilla</p>
+        <p><span class="highlight">Support Person(s):</span> Robert Buren</p>
+
+        <h2>Delivery Preferences:</h2>
+        <ul>
+            <li><span class="highlight">Pushing:</span> I would like to push instinctively and follow my body’s natural urges.</li>
+            <li><span class="highlight">Assistance:</span>
+                <ul>
+                    <li>Please avoid using forceps or vacuum extraction unless it is a medical emergency.</li>
+                    <li>I would like to avoid an episiotomy if possible and prefer natural tearing if necessary.</li>
+                </ul>
+            </li>
+            <li><span class="highlight">Birth:</span>
+                <ul>
+                    <li>I prefer my partner, Robert Buren, to be present at all times.</li>
+                    <li>Please place the baby on my chest immediately for skin-to-skin contact for at least 60 minutes, if the baby is stable and able to do so.</li>
+                    <li>I decline the first bath for the baby and prefer to keep the vernix for its antibacterial and temperature-regulating properties.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2>Postpartum Care:</h2>
+        <ul>
+            <li><span class="highlight">Baby's Care:</span>
+                <ul>
+                    <li><span class="highlight">Vitamin K:</span> I consent to the vitamin K shot for my baby and request a preservative-free version if available.</li>
+                    <li><span class="highlight">Vaccines:</span> I do not want any vaccines administered at birth (we will handle these later).</li>
+                    <li><span class="highlight">Eye Ointment:</span> I decline the routine eye ointment.</li>
+                    <li><span class="highlight">Heel Prick Test:</span> I decline the heel prick test at birth.</li>
+                    <li>I prefer all non-urgent procedures to be performed in my presence.</li>
+                </ul>
+            </li>
+            <li><span class="highlight">Rooming-In:</span> I prefer my baby to room-in with me at all times and not be taken to the nursery unless medically necessary. If it is necessary, I prefer my baby to be with either me or my husband.</li>
+        </ul>
+
+        <h2>In Case of Cesarean Section:</h2>
+        <ul>
+            <li>If a cesarean section becomes necessary, I would like my partner, Robert Buren, to be present in the operating room.</li>
+            <li>I would like immediate skin-to-skin contact with the baby in the operating room if my condition allows.</li>
+        </ul>
+
+        <h2>Emergency Situations:</h2>
+        <ul>
+            <li>In case of an emergency, please inform me and Robert Buren of the situation and options as soon as possible.</li>
+            <li>If I am unable to make decisions, my partner, Robert Buren, is designated to make choices on my behalf.</li>
+        </ul>
+
+        <h2>Additional Notes:</h2>
+        <ul>
+            <li>We prefer minimal medical intervention unless necessary for the health and safety of mother and baby.</li>
+            <li>Please explain all procedures and medications before administration to allow us to make informed decisions.</li>
+        </ul>
+
+        <p class="note">We appreciate your support and cooperation with our preferences during this special time. Thank you for helping us create a positive birth experience!</p>
+
+        <p class="note">This birth plan should be reviewed with your healthcare provider to ensure all parties understand and respect your wishes.</p>
+    </div>
+</body>
+</html>
